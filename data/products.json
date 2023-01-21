@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "brand": 5,
+        "type": 2,
+        "name": "PUMA CRUISE RIDER SILK ROAD",
+        "desctription": "Time for a rewind. PUMA x THUNDERCATS reimagines the cult-classic ‘80s TV show with futuristic design and throwback graphics. This edition of the RS-X T3CH features bold pops of color and amplified detailing in the upper.",
+        "price":{
+            "old": null,
+            "new": 90
+        },
+        "img":{
+            "src":"puma2.jpg",
+            "alt": "Puma cruise picture"
+        }
+    },
+    {
+        "id": 2,
+        "brand": 2,
+        "type": 2,
+        "name": "NIKE Jordan Max Aura 3",
+        "desctription": "Russell Westbrook is fast. These shoes match his quickness with updated cushioning, data-informed traction and a full-foot fit system to keep him in control. With a rugged utility look combined with a purposeful clash of colours and materials, this model speaks to the core of Russell's 'Why Not?' mantra.",
+        "price":{
+            "old": 180,
+            "new": 75
+        },
+        "img":{
+            "src":"jordan2.jpg",
+            "alt": "Jordan max aura picture"
+        }
+    },
+    {
+        "id": 3,
+        "brand": 1,
+        "type": 1,
+        "name": "ADIDAS FORUM LOW",
+        "desctription": "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole.",
+        "price":{
+            "old": 140,
+            "new": 120
+        },
+        "img":{
+            "src":"adidas4.jpg",
+            "alt": "adidas NITEBALL "
+        }
+    },
+    {
+        "id": 4,
+        "brand": 1,
+        "type": 1,
+        "name": "ADIDAS ZX 2K BOOST 2.0",
+        "desctription": "Take advantage of today. These running shoes use the latest innovations to keep you striding comfortably and confidently. BOOST delivers incredible energy return and instant comfort while an adidas PRIMEKNIT upper wraps the foot with a supportive fit that enhances every move. A Linear Energy Push system integrated with the outsole increases stability for extra responsiveness.",
+        "price":{
+            "old": null,
+            "new": 105
+        },
+        "img":{
+            "src":"adidas1.jpg",
+            "alt": "adidas zx 2k boost"
+        }
+    },
+    {
+        "id": 5,
+        "brand": 3,
+        "type": 3,
+        "name": "NIKE AIR FORCE 1 ILG",
+        "desctription": "The Nike Air Force 1 ILG puts a playful twist on a classic b-ball design.Using a layered approach, doubling the branding and exaggerating the midsole, it highlights AF-1 DNA with a bold, new look.",
+        "price":{
+            "old": 195.99,
+            "new": 150
+        },
+        "img":{
+            "src":"nike4.jpg",
+            "alt": "Nike force 1 ilg"
+        }
+    },
+    {
+        "id": 6,
+        "brand": 5,
+        "type": 3,
+        "name": "PUMA MAYZE BRIGHT HEIGHTS",
+        "desctription": "The MAYZE BRIGHT HEIGHTS hit the scene in 1968 and has been changing the game ever since. It’s been worn by the icons of every generation and it’s stayed classic through it all. This year, we relaunch the Suede with fresh colorways and subtle design updates. Classic as ever, for all-time.",
+        "price":{
+            "old": 145.99,
+            "new": 110
+        },
+        "img":{
+            "src":"puma1.jpg",
+            "alt": "Puma mayze bright"
+        }
+    },
+    {
+        "id": 7,
+        "brand": 3,
+        "type": 2,
+        "name": "NIKE Air Force 1 Mid Jewel",
+        "desctription": "A staple since our inception in 1972 with zour Air Force, our iconic logo makes a statement on this Air Force 1 and gives a cool, new take on the basketball icon from the '80s.",
+        "price":{
+            "old": null,
+            "new": 179
+        },
+        "img":{
+            "src":"nike3.jpg",
+            "alt": "Nike air force 1 mid jewel"
+        }
+    },
+    {
+        "id": 8,
+        "brand": 1,
+        "type": 1,
+        "name": "ADIDAS SUPERSTAR OT TECH",
+        "desctription": "Talk about standing the test of time. The adidas Superstar Shoes have continued to make their mark on our cultural landscape for over 50 years. And while certain things have changed, their signature details have not. Like the iconic rubber shell toe or classic serrated 3-Stripes. This version emphasizes them in different ways and different colors, and goes ahead and adds some extra glam with lace jewels.",
+        "price":{
+            "old": 135,
+            "new": 90
+        },
+        "img":{
+            "src":"adidas2.jpg",
+            "alt": "adidas superstar tech"
+        }
+    },
+    {
+        "id": 9,
+        "brand": 2,
+        "type": 2,
+        "name": "NIKE Air Jordan 11 CMFT Low",
+        "desctription": "The Air Jordan 11 CMFT Low isn't just the next shoe up in the iconic franchise; it's an expression of the drive and energy that sparked a basketball revolution.It's one of the lightest Air Jordan game shoes to date, featuring minimal but durable Leno-Weave upper reinforced with a TPU ribbon.It also comes equipped with a full-length Zoom Air Strobel unit stitched directly to the upper, stacked with a Zoom Air unit underneath the forefoot, providing a sensation of energy return and elite responsiveness.Step on the court with the confidence that whatever you do—it's light work.",
+        "price":{
+            "old": null,
+            "new": 108
+        },
+        "img":{
+            "src":"jordan1.jpg",
+            "alt": "jordan 11 low"
+        }
+    },
+    {
+        "id": 10,
+        "brand": 3,
+        "type": 1,
+        "name": "NIKE Air Max 95 Essential",
+        "desctription": "Let your attitude have the edge in the Nike Air Max T95 Essential, the rebellious icon recrafted for the future.Offering a tuned Air experience that delivers premium stability and unbelievable cushioning, rolled into a futuristic design crafted from at least 20% recycled materials by weight.The speckles in the rubber outsole are made from Nike Grind, which is recycled waste (i.e. the scraps) from the footwear manufacturing process.",
+        "price":{
+            "old": null,
+            "new": 99
+        },
+        "img":{
+            "src":"nike1.jpg",
+            "alt": "Air max 95 essential"
+        }
+    },
+    {
+        "id": 11,
+        "brand": 1,
+        "type": 3,
+        "name": "ADIDAS NMD_R1 ",
+        "desctription": "Runners chase progress with every step. That's why we used data from thousands of athletes to inform the design of these running shoes. They have an adidas 4D midsole that's precisely coded to absorb impact, support your gait and make running feel a little easier. The lattice structure is angled to redirect the energy of every footstrike into forward motion.",
+        "price":{
+            "old": 95.65,
+            "new": 77
+        },
+        "img":{
+            "src":"adidas3.jpg",
+            "alt": "adidas nmd r1"
+        }
+    },
+    {
+        "id": 12,
+        "brand": 3,
+        "type": 1,
+        "name": "NIKE Air Vapormax EVO ",
+        "desctription": "A pop of colour with tone-on-tone details gives just the right amount of flair to a monochrome look. The Air window is sleek and streamlined with the cushioned support you know and love.",
+        "price":{
+            "old": null,
+            "new": 175
+        },
+        "img":{
+            "src":"nike2.jpg",
+            "alt": "vapormax evo"
+        }
+    },
+    {
+        "id": 13,
+        "brand": 4,
+        "type": 3,
+        "name": "CONVERSE Chuck 70 ",
+        "desctription": "The on-court icon from 1986, completely transformed for what's next. Sport-inspired colorblocking on the premium leather upper meets the PU foam collar and wrapped, color-popped rubber outsole for maximum comfort. The Y-bar paneling and woven tongue label reference where we've been, while the exaggerated CX midsole and lightweight, responsive CX comfort sockliner take you where you're going.",
+        "price":{
+            "old": null,
+            "new": 67
+        },
+        "img":{
+            "src":"converse.jpg",
+            "alt": "CONVERSE Chuck 70 "
+        }
+    }
+]
